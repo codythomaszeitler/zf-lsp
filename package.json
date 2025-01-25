@@ -1,0 +1,27 @@
+{
+  "name": "zeitlerforce-lsp",
+  "version": "0.0.1",
+  "description": "LSP for salesforce",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codythomaszeitler/zf-lsp.git"
+  },
+  "keywords": [
+    "lsp",
+    "apex",
+    "lwc",
+    "visualforce",
+    "salesforce",
+    "vscode"
+  ],
+  "author": "Cody T. Zeitler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codythomaszeitler/zf-lsp/issues"
+  },
+  "homepage": "https://github.com/codythomaszeitler/zf-lsp#readme"
+}
