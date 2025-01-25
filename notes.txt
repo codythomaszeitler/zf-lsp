@@ -1,7 +1,0 @@
-We are going to need a way to have a package that helps us implement the LSP. (e.g. I honor some interface given by some package)
-https://projects.eclipse.org/projects/technology.lsp4j - It looks like this could be a good bet.
-
-We are going to need a way to parse apex test. (somehow has already done this)
-    - It looks like there is 
-
-We are going to use an antlr grammar to do this: https://www.antlr.org/t
