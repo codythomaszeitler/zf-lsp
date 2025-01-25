@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/codythomaszeitler/zf-lsp/issues"
   },
-  "homepage": "https://github.com/codythomaszeitler/zf-lsp#readme"
+  "homepage": "https://github.com/codythomaszeitler/zf-lsp#readme",
+  "dependencies": {
+    "tsc": "^2.0.4"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0"
+  }
 }
